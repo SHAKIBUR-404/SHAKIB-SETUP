@@ -1,3 +1,3 @@
 import os
 
-os.system('SETUP.sh')    
+os.system('bash SETUP.sh')    
